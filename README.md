@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋🏽 Hi, I'm DeShawn Morris (she/her)
 
-<!--
-**deshawnM/deshawnM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder of Intentional Spirituality 🌿 | Aspiring Full Stack Developer | WGU Graduate**
 
-Here are some ideas to get you started:
+🔮 I build technology that empowers spiritual growth, intentional living, and community connection.  
+💻 Passionate about ethical tech, intuitive design, and accessible innovation.  
+🧠 Neurodivergent | ADHD | Proudly bringing my full brilliance to every project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Current Projects
+- **Intentional Spirituality App** – Spiritual-tech platform built with React, TypeScript, TailwindCSS, Node.js
+- **Grimoire & Knowledge Base** – Custom journaling, crystal lookup, moon tracking, and more
+- **Sigil Generator** – AI-assisted magical symbol creator ✨
+
+---
+
+### 🌱 Learning and Building
+- Deepening skills in React, Vite, Next.js, and API integrations
+- Exploring cloud storage options for app scalability
+- Blending tech, art, and spirituality into accessible tools
+
+---
+
+### 🌟 Connect with Me
+- 🌐 [intentionalspirituality.com](https://intentionalspirituality.com) (coming soon)
+- ✉️ Email: dmorr93@wgu.edu
+- 📍 Based in Austin, TX
+
+---
+
+> 🧿 *“I am the ancestor my future generations will thank.”*  
+> ✨ Building a legacy of healing, wisdom, and intentionality through technology.
+
+---
