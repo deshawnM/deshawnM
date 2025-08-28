@@ -24,8 +24,8 @@
 
 ### 🌟 Connect with Me
 - 🌐 [intentionalspirituality.com](https://intentionalspirituality.com) (coming soon)
-- ✉️ Email: dmorr93@wgu.edu
-- 📍 Based in Austin, TX
+- ✉️ Email: dmorr936@wgu.edu
+- 📍 Based in New Orleans, LA
 
 ---
 
